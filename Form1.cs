@@ -19,7 +19,8 @@ namespace AGfood2._0
 
         private void button7_Click(object sender, EventArgs e)
         {
-
+            MessageBox.Show("Your order has now been placed and you will soon get your groceries!" +
+                "You may now exit the page!");
         }
 
         private void groupBox1_Enter(object sender, EventArgs e)
@@ -28,6 +29,21 @@ namespace AGfood2._0
         }
 
         private void label13_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void label1_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void checkBox3_CheckedChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        private void checkBox6_CheckedChanged(object sender, EventArgs e)
         {
 
         }
